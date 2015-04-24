@@ -1,0 +1,1091 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "Datu Saudi Ampatuan",
+      "children": [
+        {
+          "name": "Women",
+          "value": 1798
+        },
+        {
+          "name": "Lactating",
+          "value": 94
+        },
+        {
+          "name": "Pregnant",
+          "value": 22
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 376
+            },
+            {
+              "name": "Female",
+              "value": 350
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 614
+            },
+            {
+              "name": "Female",
+              "value": 643
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 801
+            },
+            {
+              "name": "Female",
+              "value": 757
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 732
+            },
+            {
+              "name": "Female",
+              "value": 699
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 185
+        }
+      ]
+    },
+    {
+      "name": "Datu Piang",
+      "children": [
+        {
+          "name": "Women",
+          "value": 356
+        },
+        {
+          "name": "Lactating",
+          "value": 32
+        },
+        {
+          "name": "Pregnant",
+          "value": 17
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 78
+            },
+            {
+              "name": "Female",
+              "value": 93
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 119
+            },
+            {
+              "name": "Female",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 170
+            },
+            {
+              "name": "Female",
+              "value": 181
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 194
+            },
+            {
+              "name": "Female",
+              "value": 177
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 91
+        }
+      ]
+    },
+    {
+      "name": "Talayan",
+      "children": [
+        {
+          "name": "Women",
+          "value": 2203
+        },
+        {
+          "name": "Lactating",
+          "value": 166
+        },
+        {
+          "name": "Pregnant",
+          "value": 173
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 179
+            },
+            {
+              "name": "Female",
+              "value": 193
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 205
+            },
+            {
+              "name": "Female",
+              "value": 228
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 227
+            },
+            {
+              "name": "Female",
+              "value": 249
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 203
+            },
+            {
+              "name": "Female",
+              "value": 219
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 98
+        }
+      ]
+    },
+    {
+      "name": "Mamasapano",
+      "children": [
+        {
+          "name": "Women",
+          "value": 4565
+        },
+        {
+          "name": "Lactating",
+          "value": 640
+        },
+        {
+          "name": "Pregnant",
+          "value": 309
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 465
+            },
+            {
+              "name": "Female",
+              "value": 537
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 505
+            },
+            {
+              "name": "Female",
+              "value": 644
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 495
+            },
+            {
+              "name": "Female",
+              "value": 654
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 1598
+            },
+            {
+              "name": "Female",
+              "value": 1585
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 574
+        }
+      ]
+    },
+    {
+      "name": "Datu Anggal Midtimbang",
+      "children": [
+        {
+          "name": "Women",
+          "value": 1412
+        },
+        {
+          "name": "Lactating",
+          "value": 190
+        },
+        {
+          "name": "Pregnant",
+          "value": 101
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 211
+            },
+            {
+              "name": "Female",
+              "value": 255
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 317
+            },
+            {
+              "name": "Female",
+              "value": 262
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 430
+            },
+            {
+              "name": "Female",
+              "value": 372
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 94
+            },
+            {
+              "name": "Female",
+              "value": 123
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 105
+        }
+      ]
+    },
+    {
+      "name": "Guindulungan",
+      "children": [
+        {
+          "name": "Women",
+          "value": 2338
+        },
+        {
+          "name": "Lactating",
+          "value": 86
+        },
+        {
+          "name": "Pregnant",
+          "value": 78
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 185
+            },
+            {
+              "name": "Female",
+              "value": 173
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 300
+            },
+            {
+              "name": "Female",
+              "value": 334
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 482
+            },
+            {
+              "name": "Female",
+              "value": 346
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 551
+            },
+            {
+              "name": "Female",
+              "value": 753
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "name": "Shariff Aguak",
+      "children": [
+        {
+          "name": "Women",
+          "value": 1739
+        },
+        {
+          "name": "Lactating",
+          "value": 183
+        },
+        {
+          "name": "Pregnant",
+          "value": 76
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 256
+            },
+            {
+              "name": "Female",
+              "value": 206
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 388
+            },
+            {
+              "name": "Female",
+              "value": 363
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 652
+            },
+            {
+              "name": "Female",
+              "value": 534
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 590
+            },
+            {
+              "name": "Female",
+              "value": 429
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 146
+        }
+      ]
+    },
+    {
+      "name": "Datu Unsak",
+      "children": [
+        {
+          "name": "Women",
+          "value": 859
+        },
+        {
+          "name": "Lactating",
+          "value": 224
+        },
+        {
+          "name": "Pregnant",
+          "value": 31
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 88
+            },
+            {
+              "name": "Female",
+              "value": 76
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 196
+            },
+            {
+              "name": "Female",
+              "value": 206
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 272
+            },
+            {
+              "name": "Female",
+              "value": 294
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 218
+            },
+            {
+              "name": "Female",
+              "value": 223
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 38
+        }
+      ]
+    },
+    {
+      "name": "Saidona Mustapha",
+      "children": [
+        {
+          "name": "Women",
+          "value": 5017
+        },
+        {
+          "name": "Lactating",
+          "value": 627
+        },
+        {
+          "name": "Pregnant",
+          "value": 313
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 713
+            },
+            {
+              "name": "Female",
+              "value": 731
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 1026
+            },
+            {
+              "name": "Female",
+              "value": 1079
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 1369
+            },
+            {
+              "name": "Female",
+              "value": 1353
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 1622
+            },
+            {
+              "name": "Female",
+              "value": 1633
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 490
+        }
+      ]
+    },
+    {
+      "name": "Datu Salibo",
+      "children": [
+        {
+          "name": "Women",
+          "value": 5470
+        },
+        {
+          "name": "Lactating",
+          "value": 683
+        },
+        {
+          "name": "Pregnant",
+          "value": 341
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 777
+            },
+            {
+              "name": "Female",
+              "value": 796
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 1118
+            },
+            {
+              "name": "Female",
+              "value": 1176
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 1493
+            },
+            {
+              "name": "Female",
+              "value": 1475
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 1768
+            },
+            {
+              "name": "Female",
+              "value": 1780
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 535
+        }
+      ]
+    },
+    {
+      "name": "Rajah Buayan",
+      "children": [
+        {
+          "name": "Women",
+          "value": 1043
+        },
+        {
+          "name": "Lactating",
+          "value": 130
+        },
+        {
+          "name": "Pregnant",
+          "value": 65
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 148
+            },
+            {
+              "name": "Female",
+              "value": 152
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 213
+            },
+            {
+              "name": "Female",
+              "value": 224
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 285
+            },
+            {
+              "name": "Female",
+              "value": 281
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 337
+            },
+            {
+              "name": "Female",
+              "value": 339
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 102
+        }
+      ]
+    },
+    {
+      "name": "Datu Hoffer",
+      "children": [
+        {
+          "name": "Women",
+          "value": 334
+        },
+        {
+          "name": "Lactating",
+          "value": 42
+        },
+        {
+          "name": "Pregnant",
+          "value": 21
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 48
+            },
+            {
+              "name": "Female",
+              "value": 49
+            },
+            {
+              "name": "Female",
+              "value": 72
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 91
+            },
+            {
+              "name": "Female",
+              "value": 90
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 108
+            },
+            {
+              "name": "Female",
+              "value": 109
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "name": "Talitay",
+      "children": [
+        {
+          "name": "Women",
+          "value": 3069
+        },
+        {
+          "name": "Lactating",
+          "value": 383
+        },
+        {
+          "name": "Pregnant",
+          "value": 191
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 436
+            },
+            {
+              "name": "Female",
+              "value": 447
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 627
+            },
+            {
+              "name": "Female",
+              "value": 660
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 837
+            },
+            {
+              "name": "Female",
+              "value": 827
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 992
+            },
+            {
+              "name": "Female",
+              "value": 998
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 300
+        }
+      ]
+    },
+    {
+      "name": "Datu Abdullah Sangk",
+      "children": [
+        {
+          "name": "Women",
+          "value": 599
+        },
+        {
+          "name": "Lactating",
+          "value": 75
+        },
+        {
+          "name": "Pregnant",
+          "value": 37
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 85
+            },
+            {
+              "name": "Female",
+              "value": 87
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 123
+            },
+            {
+              "name": "Female",
+              "value": 129
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 164
+            },
+            {
+              "name": "Female",
+              "value": 162
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 194
+            },
+            {
+              "name": "Female",
+              "value": 19
+            }
+          ]
+        },
+        {
+          "name": "Senio Citizen",
+          "value": 59
+        }
+      ]
+    },
+    {
+      "name": "Datu Odin Sinsuat",
+      "children": [
+        {
+          "name": "Women",
+          "value": 272
+        },
+        {
+          "name": "Lactating",
+          "value": 34
+        },
+        {
+          "name": "Pregnant",
+          "value": 17
+        },
+        {
+          "name": "Children 0-2",
+          "children": [
+            {
+              "name": "Male",
+              "value": 39
+            },
+            {
+              "name": "Female",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "name": "Children 3-6",
+          "children": [
+            {
+              "name": "Male",
+              "value": 56
+            },
+            {
+              "name": "Female",
+              "value": 59
+            }
+          ]
+        },
+        {
+          "name": "Children 7-12",
+          "children": [
+            {
+              "name": "Male",
+              "value": 74
+            },
+            {
+              "name": "Female",
+              "value": 73
+            }
+          ]
+        },
+        {
+          "name": "Youth",
+          "children": [
+            {
+              "name": "Male",
+              "value": 88
+            },
+            {
+              "name": "Female",
+              "value": 89
+            }
+          ]
+        },
+        {
+          "name": "Senior Citizen",
+          "value": 27
+        }
+      ]
+    }
+  ]
+}
