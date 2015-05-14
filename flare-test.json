@@ -71,7 +71,11 @@
         {
           "name": "Senior Citizen",
           "size": 185
-        }
+        },
+        {
+          "name": "PWD",
+          "size": 0
+        }       
       ]
     },
     {
@@ -144,7 +148,11 @@
         {
           "name": "Senior Citizen",
           "size": 91
-        }
+        },
+        {
+          "name": "PWD",
+          "size": 4
+        } 
       ]
     },
     {
@@ -217,6 +225,10 @@
         {
           "name": "Senior Citizen",
           "size": 98
+        },
+        {
+          "name": "PWD",
+          "size": 25
         }
       ]
     },
@@ -290,6 +302,10 @@
         {
           "name": "Senior Citizen",
           "size": 574
+        },
+        {
+          "name": "PWD",
+          "size": 57
         }
       ]
     },
@@ -363,6 +379,10 @@
         {
           "name": "Senior Citizen",
           "size": 105
+        },
+        {
+          "name": "PWD",
+          "size": 4
         }
       ]
     },
@@ -436,6 +456,10 @@
         {
           "name": "Senior Citizen",
           "size": 27
+        },
+        {
+          "name": "PWD",
+          "size": 19
         }
       ]
     },
@@ -509,11 +533,15 @@
         {
           "name": "Senior Citizen",
           "size": 146
+        },
+        {
+          "name": "PWD",
+          "size": 7
         }
       ]
     },
     {
-      "name": "Datu Unsak",
+      "name": "Datu Unsay",
       "children": [
         {
           "name": "Women",
@@ -582,6 +610,10 @@
         {
           "name": "Senior Citizen",
           "size": 38
+        },
+        {
+          "name": "PWD",
+          "size": 9
         }
       ]
     },
@@ -655,6 +687,10 @@
         {
           "name": "Senior Citizen",
           "size": 490
+        },
+        {
+          "name": "PWD",
+          "size": 48
         }
       ]
     },
@@ -728,6 +764,10 @@
         {
           "name": "Senior Citizen",
           "size": 535
+        },
+        {
+          "name": "PWD",
+          "size": 53
         }
       ]
     },
@@ -801,6 +841,10 @@
         {
           "name": "Senior Citizen",
           "size": 102
+        },
+        {
+          "name": "PWD",
+          "size": 10
         }
       ]
     },
@@ -861,6 +905,10 @@
         {
           "name": "Senior Citizen",
           "size": 33
+        },
+        {
+          "name": "PWD",
+          "size": 3
         }
       ]
     },
@@ -934,6 +982,10 @@
         {
           "name": "Senior Citizen",
           "size": 300
+        },
+        {
+          "name": "PWD",
+          "size": 30
         }
       ]
     },
@@ -1007,6 +1059,10 @@
         {
           "name": "Senior Citizen",
           "size": 59
+        },
+        {
+          "name": "PWD",
+          "size": 6
         }
       ]
     },
@@ -1080,6 +1136,10 @@
         {
           "name": "Senior Citizen",
           "size": 27
+        },
+        {
+          "name": "PWD",
+          "size": 3
         }
       ]
     }
